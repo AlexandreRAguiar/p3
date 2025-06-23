@@ -1,1 +1,2 @@
-Projeto Barbearia-Stylus: https://alexandreraguiar.github.io/p3/
+Projeto: Barbearia-Stylus
+Acesse o meu projeto ==> https://alexandreraguiar.github.io/p3/
